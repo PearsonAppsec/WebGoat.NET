@@ -1,0 +1,5 @@
+---
+exclude:
+  global:
+    - Default.aspx.cs
+    - WebGoat/App_Code
